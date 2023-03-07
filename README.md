@@ -1,1 +1,1 @@
-# Prediction-Erreur-JetVarnish3D
+# Prediction Erreur JetVarnish3D
