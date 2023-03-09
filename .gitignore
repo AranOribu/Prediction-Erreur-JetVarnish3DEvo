@@ -1,5 +1,6 @@
 # Project
-data/*.csv
+data/*
+data/jobs/*
 doc/*
 
 # Byte-compiled / optimized / DLL files
