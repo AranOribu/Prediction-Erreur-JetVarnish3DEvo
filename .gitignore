@@ -2,6 +2,7 @@
 data/*
 data/jobs/*
 doc/*
+machinelearnia/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
