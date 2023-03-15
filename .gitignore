@@ -1,6 +1,7 @@
 # Project
-data/*
-data/jobs/*
+data/*.csv
+data/jobs/*.csv
+data/metrics/*.csv
 doc/*
 machinelearnia/*
 
