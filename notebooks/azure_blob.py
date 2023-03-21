@@ -136,8 +136,4 @@ def upload_file_to_blob(filepath, filename):
         print(ex)
 
 
-<<<<<<< HEAD
-#download_blob_files('csv', 'data/')
-=======
 # download_blob_files('csv', 'data/')
->>>>>>> Arthur_explo
