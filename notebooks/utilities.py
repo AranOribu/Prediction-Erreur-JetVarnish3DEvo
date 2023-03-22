@@ -14,6 +14,7 @@ def encode_df(df, col_to_encode):
     ohe = OneHotEncoder(handle_unknown='ignore')
     # perform one-hot encoding on 'team' column
     encoder_df = pd.DataFrame(ohe.fit_transform(df[col_to_encode]).toarray())
+    print(encode_df)
     # merge one-hot encoded columns back with original DataFrame
     final_df = df.join(encoder_df)
     return final_df
