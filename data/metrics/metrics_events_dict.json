@@ -101,11 +101,10 @@
         "iFoil"
     ],
     "identification encoded": {
-        "1000": NaN,
-        "1001": "Kernel_Error",
-        "1002": "ICB communication error",
-        "1003": "RCB communication error",
-        "1004": "iFoil communication error",
-        "1005": "Pilot communication error"
+        "1000": "Kernel_Error",
+        "1001": "ICB communication error",
+        "1002": "RCB communication error",
+        "1003": "iFoil communication error",
+        "1004": "Pilot communication error"
     }
 }
