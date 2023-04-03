@@ -3,7 +3,7 @@ data/*.csv
 data/jobs/*.csv
 data/metrics/*.csv
 doc/*
-machinelearnia/*
+audrey/*
 *.csv
 
 # Byte-compiled / optimized / DLL files
