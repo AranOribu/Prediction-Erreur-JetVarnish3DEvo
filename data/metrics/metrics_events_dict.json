@@ -108,7 +108,7 @@
         "1004": "Pilot communication error"
     },
     "criticality encoded": {
-        "0": NaN,
+        "0": "UNDEFINED",
         "1": "INFO",
         "2": "WARNING",
         "3": "ERROR"
