@@ -102,9 +102,9 @@
     ],
     "identification encoded": {
         "1000": "Kernel_Error",
-        "1001": "ICB communication error",
+        "1001": "iFoil communication error",
         "1002": "RCB communication error",
-        "1003": "iFoil communication error",
+        "1003": "ICB communication error",
         "1004": "Pilot communication error"
     },
     "criticality encoded": {
