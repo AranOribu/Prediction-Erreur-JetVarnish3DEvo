@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Fabeon_msi/Project JetVarnish3d-ErrorPrediction/Prediction-Erreur-JetVarnish3D/models/LTSM_model_MLFLOW/mlruns/0/ebff7f922d8c406d9aeacc5ebabf28b9/artifacts
+end_time: 1683105645328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebff7f922d8c406d9aeacc5ebabf28b9
+run_name: sedate-squirrel-727
+run_uuid: ebff7f922d8c406d9aeacc5ebabf28b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683102028252
+status: 3
+tags: []
+user_id: ALLAN
