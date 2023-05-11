@@ -115,3 +115,6 @@ Werkzeug==2.3.3
 wrapt==1.15.0
 xgboost==1.7.5
 zipp==3.15.0
+tensorflow==2.10.*
+mlflow==2.3.*
+xgboost==1.7.5
