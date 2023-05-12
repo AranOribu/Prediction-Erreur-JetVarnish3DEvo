@@ -1,0 +1,15 @@
+artifact_uri: file:///p:/HubAcademy/AI/MGI/Prediction-Erreur-JetVarnish3D/models/LTSM_model_MLFLOW/mlruns/0/d967513a13464e4dacad29c8d72e4d13/artifacts
+end_time: 1683625372841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d967513a13464e4dacad29c8d72e4d13
+run_name: honorable-fawn-264
+run_uuid: d967513a13464e4dacad29c8d72e4d13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683625267665
+status: 3
+tags: []
+user_id: ALLAN
