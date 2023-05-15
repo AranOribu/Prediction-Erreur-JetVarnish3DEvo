@@ -1,0 +1,73 @@
+a supprimer : information
+0 :
+2 :
+311 : Attente initialisation
+313 : Ecart nb. feuilles demandées /nb. feuilles sorties
+330 : En attente
+331 : Impression en cours
+332 : Disponible
+333 : Plateau de têtes en mouvement
+334 : Préchauffage
+343 : Nettoyage tapis en cours
+344 : Manque papier
+346 : Règles de marge en mouvement
+350 : Attente extinction machine
+358 : Démarrage machine
+371 : Démarrrage UV en cours
+372 : Attente démarrage UV
+376 : Réception: mode auto non activé
+377 : Chargeur: mode auto non activé
+391 : JV-Ti non prêt : impression impossible
+406 : Purge en cours
+407 : Essuyage en cours
+408 : Nettoyage en cours
+472 :
+
+
+à supprimer : intervention humaine
+315 : Support lingette non installé
+320 : Porte avant ouverte E-0320
+324 : Consommable(s) expiré(s) E-0324
+329 : Relais de securité AU désactivé E-329
+345 : Consommable à 80% d'usure
+349 : Lampe UV 1000h de fonctionnement
+352 : Double feuille détectée E-0352
+381 : Capot après têtes ouvert E-0381
+384 : Capot sortie sécheur ouvert E-0384
+385 : Absence d'air comprimée E-0385
+388 : Bidon de nettoyant vide E-0388
+405 : Utilisation déconseillée des IRs: vitesse basse E-0405
+417 : Portes margeur ouvertes E-0417
+419 : Capteur analogique débranché E-0419
+440 : Défaut remplissage réservoirs E-0440
+444 : Dépression trop faible E-0444
+447 : Bidon de déchets plein
+466 : Bidon de vernis vide E-466
+
+
+à conserver :
+321 : Arrêt d'urgence impression E-0321
+322 : Arret d'urgence sécheur E-0322
+323 : Arrêt d'urgence feeder E-0323
+325 : Erreur de com. tapis impression E-0325
+351 : Defaut carte moteur table marge E-0351
+354 : Bourrage : module impression E-0354
+355 : Bourrage : module séchage IR E-0355
+356 : Bourrage : module séchage UV E-0356
+357 : Bourrage : sortie sécheur E-0357
+359 : Mauvais positionnement des cellules plateau de têtes E-0359
+380 : Défaut communication sécheur E-0380
+386 : Erreur four UV E-0386
+387 : Erreur positionnement plateau E-0387
+389 : Erreur cateurs verticaux plateau de têtes E-0389
+411 : Erreur moteur tapis sécheur E-0411
+418 : Erreur surcharge Corona E-0418
+430 : Erreur système de dégazage E-0430
+445 : Erreur plaque d'empreintes E-0445
+446 : Erreur moteur tapis impression E-0446
+453 : Erreur capteur lift palette C2 E-0453
+454 : Bourrage Corona - E0364
+460 : Défaut communication réception palette E-0460
+471 : Défaut carte moteur feeder palette E-0471
+479 : Arrêt d'urgence table de marge E-0479
+480 : Arrêt d'urgence stacker E-0480
