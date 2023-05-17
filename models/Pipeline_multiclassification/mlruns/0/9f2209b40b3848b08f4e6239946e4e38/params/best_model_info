@@ -1,0 +1,2 @@
+Le meilleur modèle du run est Pipeline(steps=[('scaler', StandardScaler()),
+                ('model', RandomForestClassifier(max_depth=20))]) avec une précision de 0.712
