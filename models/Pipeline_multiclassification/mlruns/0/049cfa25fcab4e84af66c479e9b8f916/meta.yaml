@@ -1,0 +1,15 @@
+artifact_uri: file:///p:/HubAcademy/AI/MGI/Prediction-Erreur-JetVarnish3D/models/Pipeline_multiclassification/mlruns/0/049cfa25fcab4e84af66c479e9b8f916/artifacts
+end_time: 1684759870461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 049cfa25fcab4e84af66c479e9b8f916
+run_name: merciful-loon-352
+run_uuid: 049cfa25fcab4e84af66c479e9b8f916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684759474892
+status: 3
+tags: []
+user_id: ALLAN
