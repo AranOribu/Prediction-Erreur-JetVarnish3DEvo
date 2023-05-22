@@ -1,4 +1,3 @@
 {
-    "discord.detailsDebugging": "Debugging {empty}",
-    "discord.enabled": false
+    "discord.enabled": true
 }
