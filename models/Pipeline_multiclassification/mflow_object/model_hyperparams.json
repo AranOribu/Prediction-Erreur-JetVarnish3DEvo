@@ -1,1 +1,0 @@
-{"Logistic Regression": ["model__C"], "Random Forest": ["model__n_estimators", "model__max_depth", "model__min_samples_split", "model__min_samples_leaf"]}
