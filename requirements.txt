@@ -37,6 +37,7 @@ greenlet==2.0.2
 grpcio==1.54.0
 h5py==3.8.0
 idna==3.4
+imbalanced-learn==0.10.1
 importlib-metadata==6.6.0
 ipykernel==6.21.3
 ipython==8.11.0
@@ -115,6 +116,3 @@ Werkzeug==2.3.3
 wrapt==1.15.0
 xgboost==1.7.5
 zipp==3.15.0
-tensorflow==2.10.*
-mlflow==2.3.*
-xgboost==1.7.5
