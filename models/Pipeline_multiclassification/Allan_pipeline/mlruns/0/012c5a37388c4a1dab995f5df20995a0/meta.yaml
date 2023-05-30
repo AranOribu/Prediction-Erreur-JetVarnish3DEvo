@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DeOliveira/Documents/Fabeon/MGI/Prediction-Erreur-JetVarnish3D/models/Pipeline_multiclassification/Allan_pipeline/mlruns/0/012c5a37388c4a1dab995f5df20995a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 012c5a37388c4a1dab995f5df20995a0
+run_name: Error identification Multi-Classification
+run_uuid: 012c5a37388c4a1dab995f5df20995a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685442645434
+status: 1
+tags: []
+user_id: DeOliveira

@@ -1,1 +1,0 @@
-"Le meilleur mod\u00e8le du run est Pipeline(steps=[('scaler', StandardScaler()),\n                ('model',\n                 RandomForestClassifier(max_depth=20, n_estimators=50))]) avec une accuracy et un recall moyen de 0.686"
