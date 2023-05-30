@@ -6,6 +6,11 @@ doc/*
 audrey/*
 *.csv
 
+# Local artefact for mlflow
+models/Pipeline_multiclassification/Allan_pipeline/mlflow_object/*
+models/Pipeline_multiclassification/Main_pipeline/mlflow_object/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
