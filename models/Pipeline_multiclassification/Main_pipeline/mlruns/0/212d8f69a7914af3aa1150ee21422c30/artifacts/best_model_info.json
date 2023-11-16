@@ -1,1 +1,0 @@
-"Le meilleur mod\u00e8le de prediction de criticit\u00e9 du run est Pipeline(steps=[('scaler', StandardScaler()),\n                ('model',\n                 RandomForestClassifier(min_samples_leaf=4, min_samples_split=5,\n                                        n_estimators=50))]) avec une accuracy , un recall moyen et une ROC-AUC de 0.685"
