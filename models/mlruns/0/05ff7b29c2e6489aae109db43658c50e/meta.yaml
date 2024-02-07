@@ -1,0 +1,16 @@
+artifact_uri: mlruns/0/05ff7b29c2e6489aae109db43658c50e/artifacts
+deleted_time: 1706043652550
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 05ff7b29c2e6489aae109db43658c50e
+run_name: Model_Comparison_Criticality
+run_uuid: 05ff7b29c2e6489aae109db43658c50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705061835494
+status: 1
+tags: []
+user_id: Allan

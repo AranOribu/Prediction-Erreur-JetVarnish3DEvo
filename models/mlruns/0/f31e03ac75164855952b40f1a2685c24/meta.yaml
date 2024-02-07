@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/f31e03ac75164855952b40f1a2685c24/artifacts
+end_time: 1706088790484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f31e03ac75164855952b40f1a2685c24
+run_name: lr_model
+run_uuid: f31e03ac75164855952b40f1a2685c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706088776775
+status: 3
+tags: []
+user_id: Allan
