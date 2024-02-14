@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/d676ef2cd15b4aa6a207f30e62de1d08/artifacts
+end_time: 1707306581033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d676ef2cd15b4aa6a207f30e62de1d08
+run_name: gbc_model
+run_uuid: d676ef2cd15b4aa6a207f30e62de1d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707306318535
+status: 3
+tags: []
+user_id: Allan

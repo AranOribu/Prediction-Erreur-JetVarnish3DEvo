@@ -1,0 +1,12 @@
+{
+    "identification encoded": {
+        "1000": "Kernel_Error",
+        "1001": "RCB communication error"
+    },
+    "criticality encoded": {
+        "0": "UNDEFINED",
+        "1": "INFO",
+        "2": "WARNING",
+        "3": "ERROR"
+    }
+}

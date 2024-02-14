@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/dca27413d0af4dc799c15d836be9f8f6/artifacts
+end_time: 1707311501869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dca27413d0af4dc799c15d836be9f8f6
+run_name: lgbm_model
+run_uuid: dca27413d0af4dc799c15d836be9f8f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707311482578
+status: 3
+tags: []
+user_id: Allan
