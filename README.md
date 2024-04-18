@@ -14,23 +14,6 @@ Les données fournies par l'équipe MGI ont été analysées et concaténées po
 
 - `job_events.csv` : Ce fichier contient les données associés aux travaux d'impression, en début, en cours et en fin de travail.
 
-L'exécution des notebooks 01 et 03 permet de vérifier l'existance en local de ces fichiers dans le répertoire local '/data/raw', sinon le téléchargement depuis le stockage Azure Blob.
-
-
-## Modèles
-
-Plusieurs modèles ont été utilisés pour entraîner et évaluer la prédiction d'erreur pour le prochain travail d'impression. Les modèles suivants ont été considérés :
-
-1. SVM (Support Vector Machine) : Un modèle d'apprentissage supervisé utilisé pour la classification et la régression.
-
-2. Arbre de décision : Un modèle d'apprentissage supervisé qui utilise une structure d'arbre pour prendre des décisions basées sur les caractéristiques des données.
-
-3. XGBoost : Une implémentation optimisée du gradient boosting, un algorithme d'apprentissage automatique populaire pour les problèmes de classification et de régression.
-
-4. LSTM (Long Short-Term Memory) : Un type de réseau de neurones récurrents (RNN) capable de prendre en compte les dépendances à long terme dans les séquences de données.
-
-Ces modèles ont été choisis en raison de leur efficacité dans la classification et la prédiction de données structurées.
-
 
 ## Etapes
 
