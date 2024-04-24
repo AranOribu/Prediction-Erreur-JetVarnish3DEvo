@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/daca29505bde427789cd0fc6df1efaf9/artifacts
+end_time: 1708502330430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daca29505bde427789cd0fc6df1efaf9
+run_name: Model_Comparison_Criticality
+run_uuid: daca29505bde427789cd0fc6df1efaf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708501384582
+status: 3
+tags: []
+user_id: Allan

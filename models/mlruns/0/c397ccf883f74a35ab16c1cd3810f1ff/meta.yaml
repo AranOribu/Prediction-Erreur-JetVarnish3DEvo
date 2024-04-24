@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/c397ccf883f74a35ab16c1cd3810f1ff/artifacts
+end_time: 1707990618030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c397ccf883f74a35ab16c1cd3810f1ff
+run_name: Model_Comparison_Criticality
+run_uuid: c397ccf883f74a35ab16c1cd3810f1ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707990243425
+status: 3
+tags: []
+user_id: Allan

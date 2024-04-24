@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/38d77fdf1c8c41ecbf048562ef2aeb1e/artifacts
+end_time: 1708501790943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38d77fdf1c8c41ecbf048562ef2aeb1e
+run_name: xgb_model
+run_uuid: 38d77fdf1c8c41ecbf048562ef2aeb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708501654803
+status: 3
+tags: []
+user_id: Allan

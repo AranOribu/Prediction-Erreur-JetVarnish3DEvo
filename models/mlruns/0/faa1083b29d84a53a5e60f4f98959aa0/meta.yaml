@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/faa1083b29d84a53a5e60f4f98959aa0/artifacts
+end_time: 1707990463394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faa1083b29d84a53a5e60f4f98959aa0
+run_name: dt_model
+run_uuid: faa1083b29d84a53a5e60f4f98959aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707990453785
+status: 3
+tags: []
+user_id: Allan
